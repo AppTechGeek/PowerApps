@@ -1,5 +1,5 @@
 # Modal Dialog with Configurable Buttons
-[(./../ModalDialo/ModalDialog.png)](./../ModalDialog/ModalDialog.png)
+[(./../ModalDialo/DialogBoxComponent.png)](./../ModalDialog/DialogBoxComponent.png)
 ### Responsive Design:
 - Buttons adjust their width automatically based on number displayed or hidden.
 - Button font adjusts according to button visibility and width/height
