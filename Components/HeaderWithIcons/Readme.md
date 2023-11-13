@@ -1,5 +1,5 @@
 # Screen Header with Icons
-![(./../HeaderWithIcons/HeaderWithIcons.png)](./../HeaderWithIcons/HeaderWithIcons.png)
+[(./../HeaderWithIcons/HeaderWithIcons.png)](./../HeaderWithIcons/HeaderWithIcons.png)
 Header with Search text box, configurable icons and screen/app title label.
 
 Common editing and navigation icons. Most colors are editable. Icons such as Add New, Save, Delete, Back, etc. You can show/hide most controls and use behavior properties such as OnSelect.
