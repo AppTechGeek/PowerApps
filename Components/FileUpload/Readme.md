@@ -17,7 +17,7 @@
 ```
   UpdateContext({locShowAttachmentDialog: false})
 - To the Save OnSelect property of the component, add the following at the top. Below is what the final code should look like
-```JavaScript
+```python
   ​​​​​​​ForAll(
     UploadFiles_1.Attachments,  ///Component output property containing file names and binary values
     Collect(
