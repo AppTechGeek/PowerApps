@@ -18,11 +18,11 @@
   UpdateContext({locShowAttachmentDialog: false})
 ```
 - To the Save OnSelect property of the component, add the following at the top. Below is what the final code should look like
-```python
+```powerfx
   ​​​​​​​ForAll(
-    UploadFiles_1.Attachments,  ///Component output property containing file names and binary values
+    UploadFiles_1.Attachments,  //Component output property containing file names and binary values
     Collect(
-        colAttachControl, ///Collection containing files returned from the component
+        colAttachControl, //Collection containing files returned from the component
         {
             //Call to Power Automate flow
             fileInfo: YourFlowNameHere.Run(
@@ -38,6 +38,6 @@
         }
     )
 );​​​​​​​
-///Hide attachment dialog
+//Hide attachment dialog
 UpdateContext({locShowAttachmentDialog: false})
 ```
