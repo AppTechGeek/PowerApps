@@ -16,6 +16,7 @@
 - To the Save OnSelect and Cancel OnSelect custom component properties add the statement below in order to hide the component when the corresponding icons are selected
 ```
   UpdateContext({locShowAttachmentDialog: false})
+```
 - To the Save OnSelect property of the component, add the following at the top. Below is what the final code should look like
 ```python
   ​​​​​​​ForAll(
