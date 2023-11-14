@@ -14,4 +14,4 @@
 ```
 - Set the component's Visible property to locShowAttachmentDialog
 - To the Save OnSelect and Cancel OnSelect custom component properties add the statement below in order to hide the component when the corresponding icons are selected
-``` UpdateContext({locShowAttachmentDialog: false})
+  UpdateContext({locShowAttachmentDialog: false})
