@@ -11,3 +11,5 @@ You can now add labels below the icons and the hover text will match the labels.
 - Configurable icons & icon titles
 - Search box
 - Screen title
+### Custom Properties
+| ![(./../HeaderWithIcons/HeaderWithIconsProps1.png)](./../HeaderWithIcons/HeaderWithIconsProps1.png) | ![(./../HeaderWithIcons/HeaderWithIconsProps2.png)](./../HeaderWithIcons/HeaderWithIconsProps2.png) | ![(./../HeaderWithIcons/HeaderWithIconsProps3.png)](./../HeaderWithIcons/HeaderWithIconsProps3.png) | 
