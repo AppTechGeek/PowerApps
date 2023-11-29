@@ -12,7 +12,7 @@ You can now add labels below the icons and the hover text will match the labels.
 - Search box
 - Screen title
 ### Image & Label Table
-<
+'''
 // Set the icon label text & image
 // Use in-app variables for IconImage or IconText if needed
 Table(
@@ -67,6 +67,6 @@ Table(
         IconImage: Icon.Reload
     }
 )
->
+'''
 ### Custom Properties
 | ![(./../HeaderWithIcons/HeaderWithIconsProps1.png)](./../HeaderWithIcons/HeaderWithIconsProps1.png) | ![(./../HeaderWithIcons/HeaderWithIconsProps2.png)](./../HeaderWithIcons/HeaderWithIconsProps2.png) | ![(./../HeaderWithIcons/HeaderWithIconsProps3.png)](./../HeaderWithIcons/HeaderWithIconsProps3.png) | 
