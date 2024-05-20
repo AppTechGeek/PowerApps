@@ -6,6 +6,8 @@
 Common editing and navigation icons. Most colors are editable. Icons such as Add New, Save, Delete, Back, etc. You can show/hide most controls and use behavior properties such as OnSelect.
 Brief explanations on usage are in the comments of properties.
 
+Note: The latest update addreses the "One or more component behaviour properties, event or action, have a mismatched return type" error
+
 New version has generic icons where you can define the image and be able to change the image in the app on the fly in a table (see below).
 You can now add labels below the icons and the hover text will match the labels. See sample code in comments.
 - Configurable icons & icon titles
